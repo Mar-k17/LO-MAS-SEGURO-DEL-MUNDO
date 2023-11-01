@@ -1,0 +1,24 @@
+body{
+background:url(https://i.pinimg.com/564x/d6/e7/58/d6e7582175c1445682cac0e621aabce4.jpg)no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+
+a{
+      
+      font-size: 4rem;
+      color: #770000;
+}
+
+h1{
+      color: #007700;
+}
+
+p{
+      color: white;
+      font-family: Agbalumo;
+      font-size: 1.2rem;
+}
+
